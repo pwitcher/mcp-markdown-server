@@ -1,9 +1,9 @@
 [project]
 name = "mcp-markdown-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "An MCP server that parses, validates, and queries local Markdown files and their YAML frontmatter."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.10"
 dependencies = [
     "fastmcp>=3.3.1",
 ]
